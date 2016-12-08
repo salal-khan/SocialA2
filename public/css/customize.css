@@ -1,0 +1,52 @@
+.profile-header-show .panel-heading {
+    background: white !important;
+    border-bottom: 0px;
+}
+
+.comments_area_size_control {
+    width: 35em;
+    display: inline-block;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+.reply_comments_area_size_control {
+    width: 30em;
+    display: inline-block;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+#drop3 {
+    text-decoration: none !important;
+}
+
+#drop3:hover {
+    text-decoration-color: #2e3436 !important;
+    color: #2e3436;
+}
+
+.hover-point-hand:hover {
+    cursor: pointer !important;
+    color: #2e3436;
+}
+/*input[type=file]  */
+.reply-file-upload,#post-file-upload,#profile-file-upload {
+    display: none !important;
+}
+.custom-upload-btn{
+    background-color: ghostwhite;
+    padding: 6px 12px;
+    cursor: pointer;
+    display: inline-block;
+    opacity: 0.8;
+}
+
+.custom-upload-btn:hover{
+  opacity: 1;
+}
+
+.privacy-btn-styleing{
+    background: #f6f7f9;
+    border: 2px #ced0d4;
+}
